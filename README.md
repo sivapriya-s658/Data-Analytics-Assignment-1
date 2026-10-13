@@ -1,2 +1,4 @@
-# Data-Analytics-Assignment-1
-Excel Data Analytics Assignment 1 using Excel functions
+# Excel Assignment 1- Data Exploration
+This repository contains my Data Analytics Assignment 1 completed using Microsoft Excel.
+
+Functions used:SUM,COUNT,AVERAGE,IF,SUMIF,COUNTIF,LEFT,RIGHT and MID
